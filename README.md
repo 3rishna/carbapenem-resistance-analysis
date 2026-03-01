@@ -1,4 +1,8 @@
-# Carbapenem Resistance Genomic Screening Pipeline
+Reproducible Python-based bioinformatics pipeline for detecting major carbapenemase genes (blaNDM, OXA-48-like variants, blaKPC) from ABRicate outputs of Indian clinical Klebsiella pneumoniae isolates.
+
+## Why This Matters
+
+Carbapenem resistance in Klebsiella pneumoniae is a major public health concern in India. This project demonstrates an automated workflow for genomic surveillance and resistance gene prevalence analysis.# Carbapenem Resistance Genomic Screening Pipeline
 
 This project implements a Python-based pipeline for screening major carbapenemase genes (blaNDM, OXA-48-like variants, blaKPC) from ABRicate outputs of Indian clinical Klebsiella pneumoniae isolates.
 
